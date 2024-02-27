@@ -1,0 +1,65 @@
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Release\Adatok.accdb
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Release\Program.exe.config
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Release\Program.exe
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Release\Program.pdb
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Release\Program.xml
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Release\Program.vbprojAssemblyReference.cache
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Release\Program.Form1.resources
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Release\Program.Resources.resources
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Release\Program.vbproj.GenerateResource.cache
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Release\Program.exe
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Release\Program.xml
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Release\Program.pdb
+H:\Nyilvantart\Program\Program\bin\x86\Release\Adatok.accdb
+H:\Nyilvantart\Program\Program\bin\x86\Release\Program.exe.config
+H:\Nyilvantart\Program\Program\bin\x86\Release\Program.exe
+H:\Nyilvantart\Program\Program\bin\x86\Release\Program.pdb
+H:\Nyilvantart\Program\Program\bin\x86\Release\Program.xml
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.vbprojAssemblyReference.cache
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.Form1.resources
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.Resources.resources
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.GenerateResource.cache
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.CoreCompileInputs.cache
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.exe
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.xml
+H:\Nyilvantart\Program\Program\obj\x86\Release\Program.pdb
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\bin\x86\Release\Adatok.accdb
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\bin\x86\Release\Program.exe.config
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\bin\x86\Release\Program.exe
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\bin\x86\Release\Program.pdb
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\bin\x86\Release\Program.xml
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.vbprojAssemblyReference.cache
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.Form1.resources
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.Resources.resources
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.GenerateResource.cache
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.CoreCompileInputs.cache
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.exe
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.xml
+C:\Users\Dóczi\Desktop\Nyilvantart\Program\Program\obj\x86\Release\Program.pdb
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Release\Adatok.accdb
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Release\Program.exe.config
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Release\Program.exe
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Release\Program.pdb
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Release\Program.xml
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.AssemblyReference.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.Form1.resources
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.Resources.resources
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.GenerateResource.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.vbproj.CoreCompileInputs.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.exe
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.xml
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Release\Program.pdb
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Release\Adatok.accdb
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Release\Program.exe.config
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Release\Program.exe
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Release\Program.pdb
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Release\Program.xml
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.vbproj.AssemblyReference.cache
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.Form1.resources
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.Resources.resources
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.vbproj.GenerateResource.cache
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.vbproj.CoreCompileInputs.cache
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.exe
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.xml
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Release\Program.pdb

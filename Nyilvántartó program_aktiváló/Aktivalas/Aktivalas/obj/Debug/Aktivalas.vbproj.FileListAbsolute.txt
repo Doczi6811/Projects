@@ -1,0 +1,12 @@
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\bin\Debug\Aktivalas.exe.config
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\bin\Debug\Aktivalas.exe
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\bin\Debug\Aktivalas.pdb
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\bin\Debug\Aktivalas.xml
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.vbprojAssemblyReference.cache
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.Form1.resources
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.Resources.resources
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.vbproj.GenerateResource.cache
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.vbproj.CoreCompileInputs.cache
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.exe
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.xml
+C:\Users\Dóczi Bence\source\repos\Aktivalas\Aktivalas\obj\Debug\Aktivalas.pdb

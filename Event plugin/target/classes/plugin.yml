@@ -1,0 +1,57 @@
+name: ZsombeyEvent
+version: '1.0'
+main: me.doczi.ZsombeyEvent
+api-version: '1.20'
+commands:
+  event:
+    description: Main commands for events
+    aliases: [e, event, events]
+permissions:
+  zsardcore.event.*:
+    description: Enables all the permissions
+    default: op
+    children:
+      zsardcore.event.join: true
+      zsardcore.event.leave: true
+      zsardcore.event.list: true
+      zsardcore.event.create: true
+      zsardcore.event.delete: true
+      zsardcore.event.close: true
+      zsardcore.event.open: true
+      zsardcore.event.allow: true
+      zsardcore.event.deny: true
+      zsardcore.event.limit: true
+      zsardcore.event.bypass: true
+  zsardcore.event.join:
+    description: Allows the player to join events
+    default: true
+  zsardcore.event.leave:
+    description: Allow the player to leave events
+    default: true
+  zsardcore.event.list:
+    description: Lists the joined player names
+    default: true
+  zsardcore.event.create:
+    description: Enables event creation
+    default: false
+  zsardcore.event.delete:
+    description: Enables event delete
+    default: false
+  zsardcore.event.close:
+    description: Enables event join cicle close
+    default: false
+  zsardcore.event.open:
+    description: Enables event join cicle reopen
+    default: false
+  zsardcore.event.allow:
+    description: Allow the player to join the event
+    default: false
+  zsardcore.event.deny:
+    description: Deny the player to join the event
+    default: false
+  zsardcore.event.limit:
+    description: Limit the event acceptable players count
+    default: false
+  zsardcore.event.bypass:
+    description: The player can't be denied from the event and he can play even the limit is full
+    default: false

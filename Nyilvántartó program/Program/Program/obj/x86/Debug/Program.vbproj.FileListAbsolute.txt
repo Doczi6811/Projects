@@ -1,0 +1,39 @@
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Debug\Adatok.accdb
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Debug\Program.exe.config
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Debug\Program.exe
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Debug\Program.pdb
+C:\Users\Dóczi Bence\source\repos\Program\Program\bin\x86\Debug\Program.xml
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Debug\Program.Form1.resources
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Debug\Program.Resources.resources
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Debug\Program.vbproj.GenerateResource.cache
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Debug\Program.exe
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Debug\Program.xml
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Debug\Program.pdb
+C:\Users\Dóczi Bence\source\repos\Program\Program\obj\x86\Debug\Program.vbprojAssemblyReference.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Debug\Adatok.accdb
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Debug\Program.exe.config
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Debug\Program.exe
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Debug\Program.pdb
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\bin\x86\Debug\Program.xml
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.vbproj.AssemblyReference.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.Form1.resources
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.Resources.resources
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.vbproj.GenerateResource.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.vbproj.CoreCompileInputs.cache
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.exe
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.xml
+C:\Users\Dóczi\Desktop\Más\Programozás\Nyilvantart\Program\Program\obj\x86\Debug\Program.pdb
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Debug\Adatok.accdb
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Debug\Program.exe.config
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Debug\Program.exe
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Debug\Program.pdb
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\bin\x86\Debug\Program.xml
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.vbproj.AssemblyReference.cache
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.Form1.resources
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.Resources.resources
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.vbproj.GenerateResource.cache
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.vbproj.CoreCompileInputs.cache
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.exe
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.xml
+C:\Users\Dóczi\Desktop\Programok\Nyilvantartó\Program\Program\obj\x86\Debug\Program.pdb

@@ -1,0 +1,14 @@
+name: ZsombeyWhitelist
+version: '${project.version}'
+main: me.doczi.ZsombeyWhitelist
+api-version: '1.20'
+commands:
+  subonly:
+    description: Modify the subonly status on the server.
+    aliases: [subonly, sub]
+    permission: zsardcore.server.subonly
+    permission-message: "§cYou have no rights to use this command."
+permissions:
+  zsardcore.server.subonly:
+    description: Allows the player to modify the subonly status on the server
+    default: op
