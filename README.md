@@ -4,6 +4,8 @@ The program that made in VB was succesfully sold to a comapny who use the progra
 
 The javascript ones are Discord bots, which I made for myself and for my friend. The giveaway bot are used in these days.
 
+The java ones are created for Minecraft plugin. One is completly unique, the second ones are use another minecraft plugins to work.
+
 I hope you like the program ideas and the source codes!
 
 More projects will come soon :)
